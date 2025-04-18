@@ -761,27 +761,6 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/3d/3f/3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f/streamlit_drawable_canvas-0.9.3-py3-none-any.whl", hash = "sha256:def456", size = 67890 }
 ]
 
-[[package]]
-name = "plotly"
-version = "5.22.0"
-source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "tenacity", version = ">=6.2.0" },
-    { name = "pandas", version = ">=1.0.0" }
-]
-sdist = { url = "https://files.pythonhosted.org/packages/4e/4e/4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e/plotly-5.22.0.tar.gz", hash = "sha256:ghi789", size = 23456 }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/4e/4e/4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e/plotly-5.22.0-py2.py3-none-any.whl", hash = "sha256:jkl012", size = 34567 }
-]
-
-[[package]]
-name = "tenacity"
-version = "8.2.2"
-source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/5f/5f/5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f/tenacity-8.2.2.tar.gz", hash = "sha256:mno345", size = 45678 }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/5f/5f/5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f/tenacity-8.2.2-py3-none-any.whl", hash = "sha256:pqr678", size = 56789 }
-]
 
 [[package]]
 name = "google-generativeai"
@@ -861,17 +840,6 @@ sdist = { url = "https://files.pythonhosted.org/packages/xx/xx/supabase-1.0.0.ta
 wheels = [
     { url = "https://files.pythonhosted.org/packages/xx/xx/supabase-1.0.0-py3-none-any.whl", hash = "sha256:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", size = 12345 },
 ]
-
-[[package]]
-name = "sqlalchemy"
-version = "2.0.30"
-source = { registry = "https://pypi.org/simple" }
-dependencies = []
-sdist = { url = "https://files.pythonhosted.org/packages/xx/xx/sqlalchemy-2.0.30.tar.gz", hash = "sha256:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", size = 12345 }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/xx/xx/sqlalchemy-2.0.30-py3-none-any.whl", hash = "sha256:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", size = 12345 },
-]
-
 
 [[package]]
 name = "regex"
