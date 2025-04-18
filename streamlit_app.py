@@ -22,7 +22,6 @@ import database_models as models
 
 # Import new modules
 from cybersafe_campus import run_cybersafe_campus
-from civil_verse import run_civilverse
 from failure_vault import run_failure_vault
 from prived_protocol import run_prived_protocol
 from retrofix_garage import run_retrofix_garage
@@ -823,9 +822,6 @@ elif section == "ClassWorlds":
 
 elif section == "BioDesign Studio":
     run_biodesign_studio()
-
-elif section == "CivilVerse":
-    run_civilverse()
 
 elif section == "Failure Vault":
     run_failure_vault()
