@@ -756,9 +756,9 @@ source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "streamlit", version = ">=0.63" }
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/3d/3f/3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f/streamlit-drawable-canvas-0.9.3.tar.gz", hash = "sha256:abc123", size = 12345 }
+sdist = { url = "https://files.pythonhosted.org/packages/3d/3f/streamlit-drawable-canvas-0.9.3.tar.gz", hash = "sha256:pkctZYzUS4AYVn6dJ-7367OJZivF2e8RA9b_ZBjif18", size = 92 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/3d/3f/3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f/streamlit_drawable_canvas-0.9.3-py3-none-any.whl", hash = "sha256:def456", size = 67890 }
+    { url = "https://files.pythonhosted.org/packages/3d/3f/streamlit_drawable_canvas-0.9.3-py3-none-any.whl", hash = "sha256:pkctZYzUS4AYVn6dJ-7367OJZivF2e8RA9b_ZBjif18", size = 92 }
 ]
 
 [[package]]
