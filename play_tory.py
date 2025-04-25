@@ -160,3 +160,6 @@ def run_playtory():
 
     st.markdown("---")
     st.caption("Developed with EduVerse")
+
+if __name__ == "__main__":
+    run_playtory()
